@@ -28,5 +28,5 @@ Call the endpoint:
 https://my-json-server.typicode.com/user/repo/posts
 
 Example:
-https://my-json-server.typicode.com/marcelpestana/Mockend/posts
-
+https://my-json-server.typicode.com/marcelpestana/mockend
+https://my-json-server.typicode.com/marcelpestana/mockend/posts
