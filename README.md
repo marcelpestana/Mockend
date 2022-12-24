@@ -1,8 +1,8 @@
-# Mockend
+# Mock
 
 Generate data to test API calls.
 
-It uses the Mockend service [Mockend](https://mockend.com/).
+It uses the Mockend service [Mockend](https://mockend.com/) and [My JSON Server](https://my-json-server.typicode.com).
 
 ## How to use (Mockend)
 
