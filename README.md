@@ -27,3 +27,6 @@ Edit the file db.json
 Call the endpoint:
 https://my-json-server.typicode.com/user/repo/posts
 
+Example:
+https://my-json-server.typicode.com/marcelpestana/Mockend/posts
+
